@@ -10,8 +10,6 @@ Mono/Stereo equirectangular image in:
 - World Normal
 - Metallic
 - Ambient Occlusion
-<br />
-<br />
 
 ## Examples
 The data was generated in a self-built island scene.
@@ -25,7 +23,7 @@ The data was generated in a self-built island scene.
 
 **Video Clip**
 
-This video clip contains nearly 50 frames.
+Front camera captured video clip (50 frames).
 
 <img src="ReadMe/video_clip.gif">
 
