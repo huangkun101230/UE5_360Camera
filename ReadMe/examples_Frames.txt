@@ -1,0 +1,3 @@
+﻿FrameNumber, GameClock, TimeTaken(s)
+0, 0.337444, 1323.33
+Duration: 22.0554 minutes for frame range [0,0] 
